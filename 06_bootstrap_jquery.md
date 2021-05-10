@@ -7,6 +7,7 @@
 
 ## 아쉬웠던 것
 - 아무래도 수업 진행도가 늦었었다.
+- 다들 여러모로 바빴다.
 
 ## What we did?
 
@@ -29,6 +30,7 @@
 #### 2021.05.07 금 - 수업 x
 #### 2021.05.08 토 - 주말
 #### 2021.05.09 일 - 주말
-#### 2021.05.10 월 - bootstrap, jquery 회고
+#### 2021.05.10 월 - query 
 
-## Refs (Github 파일 이름 바꾸면 링크 깨질 수 있음)
+#### Next...
+Bootstrap 회고 작성 + SASS Overview / Functional javascript 입문
